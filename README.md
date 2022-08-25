@@ -7,7 +7,6 @@ Resources:
 Hands on labs
 
 [Flaws.Cloud](https://flaws.cloud)
-
 [Flaws2.Cloud](https://flaws2.cloud)
 
 [Cloud Goat](https://rhinosecuritylabs.com/aws/cloudgoat-vulnerable-design-aws-environment/)
