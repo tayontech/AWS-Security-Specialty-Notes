@@ -5,6 +5,7 @@ Resources:
 [Acloud Guru](https://www.acloudguru.com)
 
 Hands on labs
+
 [Flaws.Cloud](https://flaws.cloud)
 
 [Flaws2.Cloud](https://flaws2.cloud)
